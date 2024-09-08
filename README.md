@@ -12,12 +12,12 @@ This project implements an OTP (One-Time Password) Verification System that enha
 6. Optional GUI: A Tkinter-based GUI for improved user experience.
 
 # Project Requirements
-. Python 3.x
-. Libraries:
-. smtplib
-. email.mime
-. random
-. Tkinter (for GUI)
+* Python 3.x
+* Libraries:
+* smtplib
+* email.mime
+* random
+* Tkinter (for GUI)
 
 # System Architecture
 1. OTP Generation: Generate a random 6-digit OTP.
