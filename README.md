@@ -1,5 +1,5 @@
 # Python-Project-Otp-Verification-System-via-Email
-# OTP Verification System via Email
+
 # Introduction
 This project implements an OTP (One-Time Password) Verification System that enhances security for user authentication processes like online banking or account verification. The system generates a 6-digit OTP, sends it via email, and verifies it upon user input.
 
